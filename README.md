@@ -1,0 +1,2 @@
+# FPStoken
+freepayToken
